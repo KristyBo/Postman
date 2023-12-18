@@ -1,5 +1,6 @@
 # Postman
 #Создание коллекции в Postman
+
 Задание 1 
 [Ссылка на коллекцию](https://www.postman.com/kristybo/workspace/my-workspace/collection/31035359-aae80b79-38fc-4d78-9a24-0e981edfcf58?action=share&creator=31035359)
 В рамках задания вам необходимо протестировать все методы, которые представлены для сервиса https://petstore.swagger.io/ в Postman и создать соответствующие коллекции.
